@@ -93,10 +93,10 @@ Active participant in:
 
 ## 📫 Let's Connect
 
-- 📧 Email: sinitp2015@gmail.com
-- 💼 LinkedIn: [Sini Thazhthe Pallath](https://linkedin.com/in/your-profile)
+- 📧 Email: sini.thazhthe-pallath@imt-atlantique.net
+- 💼 LinkedIn: https://www.linkedin.com/in/sini-thazhthe-pallath/
 - 📍 Location: Cesson-Sévigné, Rennes, France
-- 🌐 Portfolio: [Your Portfolio URL]
+- 🌐 Portfolio: https://sini-kannan.github.io/
 
 ## 🌍 Languages
 
